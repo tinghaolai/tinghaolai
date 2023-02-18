@@ -35,9 +35,9 @@ td, th {
 </style>
 
 <table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=tinghaolai&show_icons=true&theme=shades-of-purple"/></td>
-    <td valign="top">
+  <tr style="border: none!important;">
+    <td style="border: none!important;" valign="top"><img src="https://github-readme-stats.vercel.app/api?username=tinghaolai&show_icons=true&theme=shades-of-purple"/></td>
+    <td style="border: none!important;" valign="top">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinghaolai&hide=javascript,html,blade,scss&theme=solarized-light"/>
     </td>
   </tr>
